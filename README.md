@@ -1,3 +1,3 @@
 # hello-world
 Nancy's Play Area
-Progress.... no perfection, Tha's Agile!
+Progress.... not perfection, Tha's Agile!
