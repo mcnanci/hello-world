@@ -1,4 +1,4 @@
 #!/usr/bin/python
 
 # First comment
-print "Hello, Python!" # second comment
+print "Hello, World!" # second comment updated Python to World
